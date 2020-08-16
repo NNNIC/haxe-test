@@ -1,0 +1,41 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="..\..\cs\src\Array.cs" Link="src\Array.cs" />
+    <Compile Include="..\..\cs\src\cs\Boot.cs" Link="src\cs\Boot.cs" />
+    <Compile Include="..\..\cs\src\cs\internal\FieldLookup.cs" Link="src\cs\internal\FieldLookup.cs" />
+    <Compile Include="..\..\cs\src\cs\internal\Function.cs" Link="src\cs\internal\Function.cs" />
+    <Compile Include="..\..\cs\src\cs\internal\HxObject.cs" Link="src\cs\internal\HxObject.cs" />
+    <Compile Include="..\..\cs\src\cs\internal\Runtime.cs" Link="src\cs\internal\Runtime.cs" />
+    <Compile Include="..\..\cs\src\cs\internal\StringExt.cs" Link="src\cs\internal\StringExt.cs" />
+    <Compile Include="..\..\cs\src\cs\Lib.cs" Link="src\cs\Lib.cs" />
+    <Compile Include="..\..\cs\src\Date.cs" Link="src\Date.cs" />
+    <Compile Include="..\..\cs\src\haxe\Constraints.cs" Link="src\haxe\Constraints.cs" />
+    <Compile Include="..\..\cs\src\haxe\ds\BalancedTree.cs" Link="src\haxe\ds\BalancedTree.cs" />
+    <Compile Include="..\..\cs\src\haxe\ds\EnumValueMap.cs" Link="src\haxe\ds\EnumValueMap.cs" />
+    <Compile Include="..\..\cs\src\haxe\Exception.cs" Link="src\haxe\Exception.cs" />
+    <Compile Include="..\..\cs\src\haxe\iterators\ArrayIterator.cs" Link="src\haxe\iterators\ArrayIterator.cs" />
+    <Compile Include="..\..\cs\src\haxe\iterators\ArrayKeyValueIterator.cs" Link="src\haxe\iterators\ArrayKeyValueIterator.cs" />
+    <Compile Include="..\..\cs\src\haxe\lang\Null.cs" Link="src\haxe\lang\Null.cs" />
+    <Compile Include="..\..\cs\src\haxe\Log.cs" Link="src\haxe\Log.cs" />
+    <Compile Include="..\..\cs\src\haxe\ValueException.cs" Link="src\haxe\ValueException.cs" />
+    <Compile Include="..\..\cs\src\Reflect.cs" Link="src\Reflect.cs" />
+    <Compile Include="..\..\cs\src\Std.cs" Link="src\Std.cs" />
+    <Compile Include="..\..\cs\src\Test.cs" Link="src\Test.cs" />
+    <Compile Include="..\..\cs\src\TestControl.cs" Link="src\TestControl.cs" />
+    <Compile Include="..\..\cs\src\Type.cs" Link="src\Type.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="src\cs\internal\" />
+    <Folder Include="src\haxe\ds\" />
+    <Folder Include="src\haxe\iterators\" />
+    <Folder Include="src\haxe\lang\" />
+  </ItemGroup>
+
+</Project>

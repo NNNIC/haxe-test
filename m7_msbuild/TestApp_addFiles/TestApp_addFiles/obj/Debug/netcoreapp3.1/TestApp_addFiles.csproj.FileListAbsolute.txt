@@ -1,0 +1,4 @@
+G:\statego\samples\haxe-test\m7_msbuild\TestApp_addFiles\TestApp_addFiles\bin\Debug\netcoreapp3.1\TestApp_addFiles.exe
+G:\statego\samples\haxe-test\m7_msbuild\TestApp_addFiles\TestApp_addFiles\obj\Debug\netcoreapp3.1\TestApp_addFiles.csprojAssemblyReference.cache
+G:\statego\samples\haxe-test\m7_msbuild\TestApp_addFiles\TestApp_addFiles\obj\Debug\netcoreapp3.1\TestApp_addFiles.AssemblyInfoInputs.cache
+G:\statego\samples\haxe-test\m7_msbuild\TestApp_addFiles\TestApp_addFiles\obj\Debug\netcoreapp3.1\TestApp_addFiles.AssemblyInfo.cs

@@ -1,0 +1,16 @@
+G:\statego\samples\haxe-test\m8_copyFromHaxe\TestApp1\TestApp1\bin\Debug\netcoreapp3.1\TestApp1.exe
+G:\statego\samples\haxe-test\m8_copyFromHaxe\TestApp1\TestApp1\bin\Debug\netcoreapp3.1\TestApp1.deps.json
+G:\statego\samples\haxe-test\m8_copyFromHaxe\TestApp1\TestApp1\bin\Debug\netcoreapp3.1\TestApp1.runtimeconfig.json
+G:\statego\samples\haxe-test\m8_copyFromHaxe\TestApp1\TestApp1\bin\Debug\netcoreapp3.1\TestApp1.runtimeconfig.dev.json
+G:\statego\samples\haxe-test\m8_copyFromHaxe\TestApp1\TestApp1\bin\Debug\netcoreapp3.1\TestApp1.dll
+G:\statego\samples\haxe-test\m8_copyFromHaxe\TestApp1\TestApp1\bin\Debug\netcoreapp3.1\TestApp1.pdb
+G:\statego\samples\haxe-test\m8_copyFromHaxe\TestApp1\TestApp1\obj\Debug\netcoreapp3.1\TestApp1.csprojAssemblyReference.cache
+G:\statego\samples\haxe-test\m8_copyFromHaxe\TestApp1\TestApp1\obj\Debug\netcoreapp3.1\TestApp1.AssemblyInfoInputs.cache
+G:\statego\samples\haxe-test\m8_copyFromHaxe\TestApp1\TestApp1\obj\Debug\netcoreapp3.1\TestApp1.AssemblyInfo.cs
+G:\statego\samples\haxe-test\m8_copyFromHaxe\TestApp1\TestApp1\obj\Debug\netcoreapp3.1\TestApp1.csproj.CoreCompileInputs.cache
+G:\statego\samples\haxe-test\m8_copyFromHaxe\TestApp1\TestApp1\obj\Debug\netcoreapp3.1\TestApp1.dll
+G:\statego\samples\haxe-test\m8_copyFromHaxe\TestApp1\TestApp1\obj\Debug\netcoreapp3.1\TestApp1.pdb
+G:\statego\samples\haxe-test\m8_copyFromHaxe\TestApp1\TestApp1\obj\Debug\netcoreapp3.1\TestApp1.genruntimeconfig.cache
+G:\statego\samples\haxe-test\m8_copyFromHaxe\TestApp1\TestApp1\bin\Debug\netcoreapp3.1\TestDll.dll
+G:\statego\samples\haxe-test\m8_copyFromHaxe\TestApp1\TestApp1\bin\Debug\netcoreapp3.1\TestDll.pdb
+G:\statego\samples\haxe-test\m8_copyFromHaxe\TestApp1\TestApp1\obj\Debug\netcoreapp3.1\TestApp1.csproj.CopyComplete

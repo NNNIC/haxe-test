@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/FkWRrJv3hJ6LsW6qT6ExA0j59SUX+2bCz5RMpJPqrqNrzMH4WA8F4YKdF8Yyf/5HCQ1CQHw3yWRhOc0cV9USg==",
+  "success": true,
+  "projectFilePath": "G:\\statego\\samples\\haxe-test\\m6\\TestApp\\TestDll\\TestDll.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gea01\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

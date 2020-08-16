@@ -1,0 +1,16 @@
+G:\statego\samples\haxe-test\m7_msbuild\TestApp\TestApp\bin\Debug\netcoreapp3.1\TestApp.exe
+G:\statego\samples\haxe-test\m7_msbuild\TestApp\TestApp\bin\Debug\netcoreapp3.1\TestApp.deps.json
+G:\statego\samples\haxe-test\m7_msbuild\TestApp\TestApp\bin\Debug\netcoreapp3.1\TestApp.runtimeconfig.json
+G:\statego\samples\haxe-test\m7_msbuild\TestApp\TestApp\bin\Debug\netcoreapp3.1\TestApp.runtimeconfig.dev.json
+G:\statego\samples\haxe-test\m7_msbuild\TestApp\TestApp\bin\Debug\netcoreapp3.1\TestApp.dll
+G:\statego\samples\haxe-test\m7_msbuild\TestApp\TestApp\bin\Debug\netcoreapp3.1\TestApp.pdb
+G:\statego\samples\haxe-test\m7_msbuild\TestApp\TestApp\bin\Debug\netcoreapp3.1\TestDll.dll
+G:\statego\samples\haxe-test\m7_msbuild\TestApp\TestApp\bin\Debug\netcoreapp3.1\TestDll.pdb
+G:\statego\samples\haxe-test\m7_msbuild\TestApp\TestApp\obj\Debug\netcoreapp3.1\TestApp.csprojAssemblyReference.cache
+G:\statego\samples\haxe-test\m7_msbuild\TestApp\TestApp\obj\Debug\netcoreapp3.1\TestApp.AssemblyInfoInputs.cache
+G:\statego\samples\haxe-test\m7_msbuild\TestApp\TestApp\obj\Debug\netcoreapp3.1\TestApp.AssemblyInfo.cs
+G:\statego\samples\haxe-test\m7_msbuild\TestApp\TestApp\obj\Debug\netcoreapp3.1\TestApp.csproj.CoreCompileInputs.cache
+G:\statego\samples\haxe-test\m7_msbuild\TestApp\TestApp\obj\Debug\netcoreapp3.1\TestApp.csproj.CopyComplete
+G:\statego\samples\haxe-test\m7_msbuild\TestApp\TestApp\obj\Debug\netcoreapp3.1\TestApp.dll
+G:\statego\samples\haxe-test\m7_msbuild\TestApp\TestApp\obj\Debug\netcoreapp3.1\TestApp.pdb
+G:\statego\samples\haxe-test\m7_msbuild\TestApp\TestApp\obj\Debug\netcoreapp3.1\TestApp.genruntimeconfig.cache

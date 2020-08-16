@@ -1,0 +1,9 @@
+G:\statego\samples\haxe-test\m6\TestApp\TestDll\obj\Debug\netstandard2.0\TestDll.csprojAssemblyReference.cache
+G:\statego\samples\haxe-test\m6\TestApp\TestDll\obj\Debug\netstandard2.0\TestDll.AssemblyInfoInputs.cache
+G:\statego\samples\haxe-test\m6\TestApp\TestDll\obj\Debug\netstandard2.0\TestDll.AssemblyInfo.cs
+G:\statego\samples\haxe-test\m6\TestApp\TestDll\obj\Debug\netstandard2.0\TestDll.csproj.CoreCompileInputs.cache
+G:\statego\samples\haxe-test\m6\TestApp\TestDll\bin\Debug\netstandard2.0\TestDll.deps.json
+G:\statego\samples\haxe-test\m6\TestApp\TestDll\bin\Debug\netstandard2.0\TestDll.dll
+G:\statego\samples\haxe-test\m6\TestApp\TestDll\bin\Debug\netstandard2.0\TestDll.pdb
+G:\statego\samples\haxe-test\m6\TestApp\TestDll\obj\Debug\netstandard2.0\TestDll.dll
+G:\statego\samples\haxe-test\m6\TestApp\TestDll\obj\Debug\netstandard2.0\TestDll.pdb
