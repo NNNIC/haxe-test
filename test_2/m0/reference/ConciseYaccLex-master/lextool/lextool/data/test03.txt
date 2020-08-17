@@ -1,0 +1,15 @@
+//
+// TEST 03
+//
+
+Screen "hoge" 
+Layer  "main" MC { refresh(300); }
+
+#if DATE("2016/8/13") 
+
+#set @A "hoge" ("hebotton",0,2) { Hide() }
+
+#endif
+
+display @A
+

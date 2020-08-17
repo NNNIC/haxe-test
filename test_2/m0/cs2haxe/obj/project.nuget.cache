@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oyDxMvoAsJ1hRt9c9H3FqpT3RUJr93p2Yfxz7iBGejuWB6PfZEYy8RGVHQv06Fdj+yyDcZkqhApGpULWJ8ExUA==",
+  "success": true,
+  "projectFilePath": "G:\\statego\\samples\\haxe-test\\test_2\\m0\\cs2haxe\\cs2haxe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gea01\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

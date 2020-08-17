@@ -1,0 +1,13 @@
+G:\statego\samples\haxe-test\test_2\m0\cs2haxe\obj\Debug\netcoreapp3.1\cs2haxe.csprojAssemblyReference.cache
+G:\statego\samples\haxe-test\test_2\m0\cs2haxe\obj\Debug\netcoreapp3.1\cs2haxe.AssemblyInfoInputs.cache
+G:\statego\samples\haxe-test\test_2\m0\cs2haxe\obj\Debug\netcoreapp3.1\cs2haxe.AssemblyInfo.cs
+G:\statego\samples\haxe-test\test_2\m0\cs2haxe\obj\Debug\netcoreapp3.1\cs2haxe.csproj.CoreCompileInputs.cache
+G:\statego\samples\haxe-test\test_2\m0\cs2haxe\bin\Debug\netcoreapp3.1\cs2haxe.exe
+G:\statego\samples\haxe-test\test_2\m0\cs2haxe\bin\Debug\netcoreapp3.1\cs2haxe.deps.json
+G:\statego\samples\haxe-test\test_2\m0\cs2haxe\bin\Debug\netcoreapp3.1\cs2haxe.runtimeconfig.json
+G:\statego\samples\haxe-test\test_2\m0\cs2haxe\bin\Debug\netcoreapp3.1\cs2haxe.runtimeconfig.dev.json
+G:\statego\samples\haxe-test\test_2\m0\cs2haxe\bin\Debug\netcoreapp3.1\cs2haxe.dll
+G:\statego\samples\haxe-test\test_2\m0\cs2haxe\bin\Debug\netcoreapp3.1\cs2haxe.pdb
+G:\statego\samples\haxe-test\test_2\m0\cs2haxe\obj\Debug\netcoreapp3.1\cs2haxe.dll
+G:\statego\samples\haxe-test\test_2\m0\cs2haxe\obj\Debug\netcoreapp3.1\cs2haxe.pdb
+G:\statego\samples\haxe-test\test_2\m0\cs2haxe\obj\Debug\netcoreapp3.1\cs2haxe.genruntimeconfig.cache

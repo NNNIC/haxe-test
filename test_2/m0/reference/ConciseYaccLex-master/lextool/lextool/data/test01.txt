@@ -1,0 +1,15 @@
+//
+// TEST 01
+//
+
+Screen "hoge" 
+Layer  "main" MC 
+
+#if DATE("2016/8/13") 
+
+#set @A "xXx" 
+
+#endif
+
+display @A (0,0)
+

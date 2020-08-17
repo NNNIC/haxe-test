@@ -1,0 +1,12 @@
+﻿■■■■■■
+■ TO DO  ■
+■■■■■■
+
+- githubへ
+- readme作成
+x 詳細ダンプ
+x errorをsys.errorへ
+x Console.Writeをsys.logへ
+x runtime作成
+x 解析中のエラーで行番号表示。
+- ydef_apiのトラバースのリファクタリング
