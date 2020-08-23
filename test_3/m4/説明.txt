@@ -1,0 +1,9 @@
+1. ToSampleHx.bat sample.sln を使用して hxへ ※sample.slnは VS2019
+2. ToCSharp.bat hx -> cs   sys_csを使用
+3. ToJs.bat     hx -> js   sys_jsを使用
+
+note
+
+- sampleのTestControl.cs -- CheckState(S_END)が使えないから　m_bEndを作り、START/ENDでクリアと設定
+- sampleのProgram.Mainは privateだったから publicにして、 Hx時に呼べるようにした。
+
